@@ -1,0 +1,3 @@
+[I 251018 22:46:07 logging:20] Initialized logging.
+[I 251018 22:46:08 cli:17] Time: 3,600. Dead-lock detected. No HT moves in the past 3600 secs.
+[I 251018 22:46:08 simulation:243] Output job report: data/output.csv
